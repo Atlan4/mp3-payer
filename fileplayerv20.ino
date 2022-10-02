@@ -5,7 +5,7 @@
  * \remarks comments are implemented with Doxygen Markdown format
  *
  * \author Bill Porter
- * \author Michael P. Flaga with sdfat v1.4.1
+ * \author Michael P. Flaga with sdfat v1.1.4
  * \author DK modify for support MP3 ID tag 1.0 and 2.0 and 3.0
  *
  * This sketch listens for commands from a serial terminal (such as the Serial
